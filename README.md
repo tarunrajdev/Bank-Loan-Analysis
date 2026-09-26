@@ -229,7 +229,7 @@ Mortgage owners drive the highest repayments.
 
 ---
 
-## 🧾 Final Conclusion: Loan Portfolio Risk & Strategy 
+##  Final Conclusion: Loan Portfolio Risk & Strategy 
 
 *The analysis confirms the bank’s loan business is in a phase of **rapid, profitable growth**, but with significant risk concentration in a few key areas.*
 
